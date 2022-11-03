@@ -2,7 +2,7 @@
 
 
 
-### Sample:
+## Sample:
 
 #### [5 Marks] Suppose you need to develop a **DNS resolver** which only supports iterative navigation (starting from the root server) to resolve a given hostname to the corresponding IP address. Write the high-level steps (at most 10 lines) for the DNS resolver.
 
