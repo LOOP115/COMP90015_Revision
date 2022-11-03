@@ -15,7 +15,7 @@ public class Server extends UnicastRemoteObject implements IDictionary{
 	static String fileName; 
 	static ConcurrentHashMap<String, String> dict = new ConcurrentHashMap<>();
 	
-	protected DictionaryServer() throws RemoteException {
+	protected Server() throws RemoteException {
 		super();
 	}
 	

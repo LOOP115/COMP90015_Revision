@@ -1,4 +1,5 @@
 package dictionary;
+
 import java.rmi.Naming;
 
 
